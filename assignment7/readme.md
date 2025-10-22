@@ -4,6 +4,9 @@
 In this week’s assignment, I have evaluated the performance of a **Random Forest Classifier** on the `students.csv` dataset.  
 The goal was to predict whether a student passes or fails based on academic data and then analyze how well the model performs using different evaluation metrics.
 
+- Dataset: `students.csv`  
+- Model Used: **Random Forest Classifier**  
+
 ---
 
 ## Class Task: Confusion Matrix & ROC Curve
@@ -39,9 +42,4 @@ A higher Recall ensures that most at-risk students are detected and can be assis
 
 ---
 
-## Summary
-- Dataset: `students.csv`  
-- Model Used: **Random Forest Classifier**  
-- Evaluation Methods: Confusion Matrix, ROC Curve, Precision, Recall, F1 Score  
-- Key Focus: Model interpretability and performance evaluation
 
