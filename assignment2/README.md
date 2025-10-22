@@ -1,16 +1,16 @@
-# 📘 Week 2: Data Cleaning & Preprocessing
+#  Week 2: Data Cleaning & Preprocessing
 
-## 🔹 Class Task
-In this class, we learned how to:
-- Identify and remove **duplicate records** from a dataset  
-- Handle **missing values** using appropriate techniques  
-- Detect and treat **outliers** to improve data quality  
+##  Class Task
+In this class task, I have:
+- Identified and removed **duplicate records** from a dataset  
+- Handled **missing values** using appropriate techniques  
+- Detected and treated **outliers** to improve data quality  
 
 These steps help prepare data for accurate machine learning and statistical analysis.
 
 ---
 
-## 🔹 Assignment Task
+##  Assignment Task
 ### Goal  
 Apply data cleaning techniques on my project dataset — **Student Performance Dataset** — and generate a “before vs after cleaning” comparison.
 
@@ -26,7 +26,7 @@ The goal of this project is to analyze and predict student performance using cle
    - Filled numeric columns with their **mean** value  
    - Filled categorical columns with their **mode** (most common value)  
 3. **Treated Outliers** – Removed extreme values using the **Interquartile Range (IQR)** method  
-4. **Saved Cleaned Dataset** – Exported as `StudentsPerformance_Cleaned.csv`
+4. **Saved Cleaned Dataset** – Exported as `students.csv`
 
 ---
 
@@ -41,6 +41,6 @@ The goal of this project is to analyze and predict student performance using cle
 
 ---
 
-## ✅ Final Summary
+##  Final Summary
 After cleaning, the dataset became **more consistent, complete, and ready for analysis**.  
 This process ensures that upcoming tasks like **regression, classification, and clustering** will produce more accurate and reliable results.
