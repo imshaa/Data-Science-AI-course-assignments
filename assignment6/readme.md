@@ -1,7 +1,7 @@
 # Week 6: Machine Learning Classification
 
 ## Overview
-In this week’s task, we applied **classification algorithms** to predict whether a student passes or fails based on academic and personal data from the `students.csv` dataset.  
+In this week’s task, i have applied **classification algorithms** to predict whether a student passes or fails based on academic and personal data from the `students.csv` dataset.  
 The project involved data preprocessing, model training, and performance comparison between multiple algorithms.
 
 ---
@@ -40,5 +40,4 @@ The model with higher accuracy was considered the better performer.
 ---
 
 ## Conclusion
-Both **Logistic Regression** and **Random Forest** were effective, but **Random Forest** often performed better due to its ability to combine multiple decision trees for higher accuracy and generalization.
-
+Both **Logistic Regression** and **Random Forest** were effective, but **Logistic Regression** performed better in this case.
